@@ -1,3 +1,1 @@
-# Mathieu Vanden Hautte
-
-Azure Architec at ConXioN
+Azure Architect at ConXioN
