@@ -4,7 +4,7 @@ I am currently working as an Azure Architect @ ConXioN bv.\
 Ask me about anything & everything, always happy to help! 👍
 
 
-## Recommended Github repos on Cloud Networking
+## Recommended GitHub repos on Cloud Networking
 
 * https://github.com/dmauser
 * https://github.com/fabferri
