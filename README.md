@@ -4,5 +4,5 @@
 
 ## Connect
 
-- 🔗 [linkedin.com/in/vandenhautte](https://www.linkedin.com/in/mathieu-vanden-hautte)
+- 🔗 [linkedin.com/in/mathieu-vanden-hautte](https://www.linkedin.com/in/mathieu-vanden-hautte)
 - 📍 Oudenaarde, Belgium
