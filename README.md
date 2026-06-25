@@ -5,7 +5,7 @@ I work at as an Azure Architect and Technical Lead at ConXioN
 As an Azure Architect with a strong pre-sales focus, I act as a technical advisor to clients and internal stakeholders, translating business challenges into secure, scalable, and cost-efficient Azure solutions.
 
 Key responsibilities and impact:
-Lead technical pre-sales engagements including workshops, solution shaping sessions, estimations, and proposal development.
+* Lead technical pre-sales engagements including workshops, solution shaping sessions, estimations, and proposal development.
 * Translate complex customer requirements into well-architected Azure solution designs and commercial-ready architectures.
 * Design and implement scalable Azure landing zones and infrastructure platforms aligned with Microsoft best practices.
 * Define and enforce cloud governance, security, identity, and compliance standards across enterprise environments.
