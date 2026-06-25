@@ -16,6 +16,8 @@ Key responsibilities and impact:
 * Provide technical guidance and mentorship to engineers and contribute to internal knowledge sharing initiatives.
 * Provide Azure training sessions and technical enablement to internal teams and customers, improving cloud adoption and engineering maturity.
 
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/mathieu-vanden-hautte) · [Tech Community](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+
 ## 🎓 Microsoft Certifications
 * Azure Solutions Architect Expert
 * Azure Administrator Associate
