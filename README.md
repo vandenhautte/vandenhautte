@@ -1,5 +1,5 @@
 #  🌐 Mathieu Vanden Hautte
-I am an Azure Architect and Technical Lead at [ConXioN ](https://www.conxion.be).
+I am an Azure Architect and Technical Lead at [ConXioN](https://www.conxion.be).
 
 ## 👋 About me
 As an Azure Architect with a strong pre-sales focus, I act as a technical advisor to clients and internal stakeholders, translating business challenges into secure, scalable, and cost-efficient Azure solutions.
