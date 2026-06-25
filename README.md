@@ -16,7 +16,7 @@ Key responsibilities and impact:
 * Provide technical guidance and mentorship to engineers and contribute to internal knowledge sharing initiatives.
 * Provide Azure training sessions and technical enablement to internal teams and customers, improving cloud adoption and engineering maturity.
 
-📫 **Connect:** [Tech Community](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+📫 **Connect:** [Tech Community](https://techcommunity.microsoft.com/users/mathieuvandenhautte/1553802)
 
 ## 🎓 Microsoft Certifications
 * Azure Solutions Architect Expert
