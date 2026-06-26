@@ -16,8 +16,6 @@ Key responsibilities and impact:
 * Provide technical guidance and mentorship to engineers and contribute to internal knowledge sharing initiatives.
 * Provide Azure training sessions and technical enablement to internal teams and customers, improving cloud adoption and engineering maturity.
 
-📫 **Connect:** [Tech Community](https://techcommunity.microsoft.com/users/mathieuvandenhautte/1553802)
-
 ## 🎓 Microsoft Certifications
 * Azure Solutions Architect Expert
 * Azure Administrator Associate
@@ -25,6 +23,8 @@ Key responsibilities and impact:
 * Azure AI Fundamentals
 * Azure Fundamentals
 * Microsoft 365 Fundamentals
+
+📫 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/mathieuvandenhautte-4464/transcript/dlrrni8kkp5qzj9)
 
 ## 🌟 Recommended Repos
 * [Jose Moreno ](https://github.com/erjosito)
