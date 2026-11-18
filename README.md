@@ -29,6 +29,6 @@ Azure Architect & Technical Lead at ConXioN, passionate about Microsoft technolo
 * Residential Electrician
 * Prevention Advisor
 * First Aid
-* AXS Guard Basic Training
-* AXS Guard Advanced Training
+* AXS Guard Basic 
+* AXS Guard Advanced 
 * Dr. Migrate Specialist
